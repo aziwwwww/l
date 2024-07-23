@@ -10,3 +10,8 @@ reference
 GPT_weights
 SoVITS_weights
 TEMP
+*.wav
+*.log
+tmp
+audio
+model
